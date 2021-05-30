@@ -1,0 +1,30 @@
+body{
+	background-color: lightsteelblue;
+}
+h1{
+	font-size: 30px;
+	color: rebeccapurple;
+}
+h2{
+	font-size: 20px;
+	color: red;
+}
+h2{
+	color: green;
+}
+
+.big{
+	font-size: 60px;
+}
+
+.pro{
+	text-transform: uppercase;
+}
+
+.big.pro{
+	color: navajowhite;
+}
+
+h1 span{
+	color:  darkviolet;
+}
